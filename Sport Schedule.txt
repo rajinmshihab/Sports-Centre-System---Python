@@ -1,0 +1,12 @@
+Sport_Code	Sport	Location	Weekdays	Time [GMT +8]
+B001	Badminton	Cheras	Monday	4:00 PM
+F001	Football	Cheras	Monday	11:00 AM
+C001	Cricket	Bukit Jalil	Wednesday	10:00 AM
+A001	Archery	Sri Petaling	Thursday	4:00 PM
+T001	Tennis	Bukit Jalil	Wednesday	4:00 PM
+T002	Table Tennis	Bukit Jalil	Friday	11:00 AM
+V001	Volleyball	Sri Petaling	Saturday	3:00 PM
+G001	Gymnastics	Sri Petaling	Monday	12:00 PM
+S001	Swimming	Cheras	Tuesday	3:00 PM
+B002	Basketball	Sri Petaling	Thursday	11:00 AM
+T001	Tennis	Bukit Jalil	Saturday	05:15 PM

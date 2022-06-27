@@ -1,0 +1,11 @@
+Sport_Code	Sport	Location
+B001	Badminton	Cheras
+F001	Football	Cheras
+C001	Cricket	Bukit Jalil
+A001	Archery	Sri Petaling
+T001	Tennis	Bukit Jalil
+T002	Table Tennis	Bukit Jalil
+V001	Volleyball	Sri Petaling
+G001	Gymnastics	Sri Petaling
+S001	Swimming	Cheras
+B003	Basketball	Sri Petaling

@@ -1,0 +1,13 @@
+ID	Name	DOB		Sport
+CSA0001	Neil	19.05.1997	Badminton
+CSA0100	Lucy	20.04.1995	Football
+CSA0003	Stan	14.08.1992	Cricket
+CSA0004	Glory	21.07.1996	Archery
+CSA0005	Neon	15.06.1992	Tennis
+CSA0006	Jeff	21.03.1999	Table Tennis
+CSA0007	Rick	02.10.1995	Volleyball
+CSA0008	Sonny	05.06.1996	Gymnastics
+CSA0009	Reed	04.10.1999	Swimming
+CSA0010	Newt	09.04.1999	Basketball
+CSA0011	Rajin	20.06.2000	Badminton
+CSA1100	TestGuy	20.11.1999	Basketball
